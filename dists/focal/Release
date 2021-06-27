@@ -4,7 +4,7 @@ Components: main
 Date: Sat, 19 Jun 2021 16:30:30 +0000
 Description: Nada
 Label: libgpsp2.0
-Origin: dl.winehq.org
+Origin: mundognu
 Suite: focal
 MD5Sum:
  bf0ec9d8e62c24c3350a7ab54509280b           902922 main/binary-amd64/Packages
