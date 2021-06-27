@@ -2,9 +2,9 @@ Architectures: i386 amd64
 Codename: focal
 Components: main
 Date: Sat, 19 Jun 2021 16:30:30 +0000
-Description: WineHQ packages
-Label: winehq
-Origin: dl.winehq.org
+Description: libpsp2.0
+Label: libglewpsp2.0
+Origin: mundognu
 Suite: focal
 MD5Sum:
  bf0ec9d8e62c24c3350a7ab54509280b           902922 main/binary-amd64/Packages
@@ -28,7 +28,7 @@ SHA1:
  6c91fd7e522c5c7397695341e718adfc82d028be           262761 main/binary-i386/Packages.gz
  690b448e9844713bdeb984311b680583c709480d           222940 main/binary-i386/Packages.xz
  2044dd4714a08cc083f717a3abcc9db15d878f6a              115 main/binary-i386/Release
- fcd9395dc3b6835770ec1786b07aee74ad1dc93b              117 main/source/Release
+ fcd9395dc3b6835770ec1786b07aee74ad1dc93b              117 main/source/Releasepg --clearsign -o InRelease Release
  e79b6521acae78318dc0f2bb0edf868d214ed9d0           243725 main/source/Sources
  0ab80df8aecb45c90435a66470ad3f6195a159d7            38192 main/source/Sources.gz
  16c563291d914434700266a6f1b8cdb19613bc14            32412 main/source/Sources.xz
