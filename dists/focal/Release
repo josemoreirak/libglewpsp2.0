@@ -2,8 +2,8 @@ Architectures: i386 amd64
 Codename: focal
 Components: main
 Date: Sat, 19 Jun 2021 16:30:30 +0000
-Description: WineHQ packages
-Label: winehq
+Description: Nada
+Label: libgpsp2.0
 Origin: dl.winehq.org
 Suite: focal
 MD5Sum:
